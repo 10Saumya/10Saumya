@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ujwE6tWf05?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 ---
 
 ### 🔗 Connect With Me
@@ -58,6 +62,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/saumya-shrivastava-a05a82382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ujwE6tWf05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
